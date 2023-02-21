@@ -1,0 +1,16 @@
+PODS:
+  - GSPlayer (0.2.26)
+
+DEPENDENCIES:
+  - GSPlayer
+
+SPEC REPOS:
+  trunk:
+    - GSPlayer
+
+SPEC CHECKSUMS:
+  GSPlayer: 1ee7c282d6e6125ca9c0c684d91b8a31512ccfe6
+
+PODFILE CHECKSUM: 5ab7ed25deedf2e099e624460c25a3975b801fea
+
+COCOAPODS: 1.11.3
